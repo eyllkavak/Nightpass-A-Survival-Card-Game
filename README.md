@@ -40,6 +40,7 @@ Permanent Penalties: Units suffer a 10% reduction in A_base for full revivals an
 
 
 Performance and Scalability
+
 Large-Scale Data Handling: Optimized to process up to 550,000 commands and 400,000 unique card entities .
 
 Time Complexity: Engineered to complete execution within a 15-second limit for the largest test cases.
@@ -49,10 +50,13 @@ Strict Memory Constraints: To demonstrate custom data structure implementation, 
 
 
 Tech Stack
+
 Language: Java.
 
 Concepts: Object-Oriented Programming (OOP), Custom Algorithm Design, File I/O Stream Management.
 
 Execution
+
 javac *.java
+
 java Main <input_file> <output_file>
